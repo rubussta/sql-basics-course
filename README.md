@@ -1,1 +1,1 @@
-# Практические задания из учебника PostgreSQL. Основы языка SQL: учеб. пособие / Е. П. Моргунов.
+# Practical exercises from the textbook "PostgreSQL. Fundamentals of SQL" by E.P.Morgunov
