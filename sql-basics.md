@@ -1,5 +1,6 @@
-# Практические задания из учебника [PostgreSQL. Основы языка SQL: учеб. пособие / Е. П. Моргунов.](https://postgrespro.ru/education/books/sqlprimer)
-Задания выполнены на основе [демонстрационной базы данных "Авиаперевозки".](https://postgrespro.ru/education/demodb)
+# Решения задач на PostgreSQL из учебного пособия [Моргунов, Е. П. PostgreSQL. Основы языка SQL: учеб. пособие / Е. П. Моргунов; под ред. Е. В. Рогова, П. В. Лузанова. — СПб.: БХВ-Петербург, 2018. — 336 с.: ил](https://postgrespro.ru/education/books/sqlprimer)  
+
+Задания выполнены в [демонстрационной базе данных "Авиаперевозки".](https://postgrespro.ru/education/demodb)
 
 ## Глава 2. Создание рабочей среды
 <details>
