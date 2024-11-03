@@ -1,1 +1,6 @@
-# Practical exercises from the textbook "PostgreSQL. SQL fundamentals" by E.P.Morgunov
+# Решения задач на PostgreSQL из учебного пособия [Моргунов, Е. П. PostgreSQL. Основы языка SQL: учеб. пособие / Е. П. Моргунов; под ред. Е. В. Рогова, П. В. Лузанова. — СПб.: БХВ-Петербург, 2018. — 336 с.: ил](https://postgrespro.ru/education/books/sqlprimer)  
+
+Решения проверены преподавателем и являются верными с точки зрения результатов запросов, хотя могут быть и не самыми оптимальоными.   
+Задачи выполнены в [демонстрационной базе данных "Авиаперевозки".](https://postgrespro.ru/education/demodb) 
+
+[Посмотреть решения >>](https://github.com/rubussta/sql-basics-course/blob/main/sql-basics.md)
